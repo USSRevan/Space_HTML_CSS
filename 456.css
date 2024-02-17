@@ -1,0 +1,51 @@
+.special {
+    font-weight: bold;
+    background-color: black;
+    font-family: 'Arial', 'Verdana', sans-serif;
+
+
+}
+.center-both {
+    text-align: center;
+    font-size: 30px;
+    color: aqua;
+
+}
+dt {
+    font-size: 25px;
+    border: 1px solid chartreuse;
+    text-align: center;
+    color: aquamarine;
+}
+
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+li{
+    font-size: 20px;
+}
+
+span{
+    margin: 1em 3em;
+}
+
+img{
+    border: 5px solid chartreuse;
+}
+h2{
+    font-size: 30px;
+    text-align: left;
+    color: azure;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+    color: azure;
+    border: 1px solid aqua;
+}
+
